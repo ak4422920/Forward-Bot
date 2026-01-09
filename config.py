@@ -8,10 +8,10 @@ class Config:
     API_ID = int(environ.get("API_ID", ""))
     API_HASH = environ.get("API_HASH", "")
     BOT_TOKEN = environ.get("BOT_TOKEN", "") 
-    BOT_SESSION = environ.get("BOT_SESSION", "ZFwdXBot") 
+    BOT_SESSION = environ.get("BOT_SESSION", "ForwardA1bot") 
     DATABASE_URI = environ.get("DATABASE_URI", "")
     DATABASE_NAME = environ.get("DATABASE_NAME", "")
-    BOT_OWNER = int(environ.get("BOT_OWNER", "8371607189"))
+    BOT_OWNER = int(environ.get("BOT_OWNER", "5482682830"))
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -27,5 +27,6 @@ class temp(object):
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
